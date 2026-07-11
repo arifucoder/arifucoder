@@ -1,16 +1,16 @@
 ## 👨‍💻 About Me
 
-[![Portfolio Banner](https://raw.githubusercontent.com/arifuddincoder/arifuddincoder/main/assets/arifuddin-fullstack-developer.png)](https://codebyarif.web.app)
+[![Portfolio Banner](https://raw.githubusercontent.com/arifucoder/arifucoder/main/assets/arifuddin-fullstack-developer.png)](https://codebyarif.web.app)
 
 # 😎 Hey! Nice to see you.
 
 Welcome to my page!  
 I'm **Md Arif Uddin**, a passionate **Full-Stack Developer** from 🇧🇩 **Tangail, Bangladesh**.  
-I specialize in building scalable web applications with **React**, **Next.js**, **Node.js**, and **PostgreSQL**, and I'm deeply passionate about crafting efficient, user-friendly solutions.  
+I specialize in building scalable web applications with **TypeScript**, **React**, **Next.js**, **Node.js**, and **PostgreSQL**, and I'm deeply passionate about crafting efficient, user-friendly solutions.  
 I love exploring modern JavaScript tools, frameworks, and DevOps practices to deliver the best development experience.
 
 [<img src="https://img.shields.io/badge/-25D366?style=flat&logo=whatsapp&logoColor=white" width="20"/>](https://wa.me/8801625446383) [+8801625446383](https://wa.me/8801625446383)  
-[<img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" width="20"/>](mailto:arifuddincoder@gmail.com) [arifuddincoder@gmail.com](mailto:arifuddincoder@gmail.com)  
+[<img src="https://img.shields.io/badge/-D14836?style=flat&logo=gmail&logoColor=white" width="20"/>](mailto:arifucoder@gmail.com) [arifucoder@gmail.com](mailto:arifucoder@gmail.com)  
 
 🌐 Visit My Portfolio Website: [https://codebyarif.web.app](https://codebyarif.web.app)
 
@@ -67,10 +67,10 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
 ## 📂 Recent Projects
 | 🧠 Project Name | 🐞 Issues | ⚙️ Technologies |
 |----------------|-----------|----------------|
-| [CineTube Frontend](https://github.com/arifuddincoder/cinetube-frontend) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/cinetube-frontend) | Next.js • TypeScript • Tailwind • shadcn/ui • TanStack |
-| [CineTube Backend](https://github.com/arifuddincoder/cinetube-backend) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/cinetube-backend) | Express • Prisma • PostgreSQL • Stripe • Docker |
-| [SkillBridge Frontend](https://github.com/arifuddincoder/skillbridge-frontend) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/skillbridge-frontend) | Next.js • TypeScript • Tailwind • Better Auth |
-| [SkillBridge Backend](https://github.com/arifuddincoder/skillbridge-backend) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/skillbridge-backend) | Node.js • Express • PostgreSQL • Docker |
+| [CineTube Frontend](https://github.com/arifucoder/cinetube-frontend) | ![Issues](https://img.shields.io/github/issues/arifucoder/cinetube-frontend) | Next.js • TypeScript • Tailwind • shadcn/ui • TanStack |
+| [CineTube Backend](https://github.com/arifucoder/cinetube-backend) | ![Issues](https://img.shields.io/github/issues/arifucoder/cinetube-backend) | Express • Prisma • PostgreSQL • Stripe • Docker |
+| [SkillBridge Frontend](https://github.com/arifucoder/skillbridge-frontend) | ![Issues](https://img.shields.io/github/issues/arifucoder/skillbridge-frontend) | Next.js • TypeScript • Tailwind • Better Auth |
+| [SkillBridge Backend](https://github.com/arifucoder/skillbridge-backend) | ![Issues](https://img.shields.io/github/issues/arifucoder/skillbridge-backend) | Node.js • Express • PostgreSQL • Docker |
 
 
 ---
@@ -78,15 +78,15 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifuddincoder&theme=github" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifucoder&theme=github" alt="Profile Details" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifuddincoder&theme=github" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifuddincoder&theme=github" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifucoder&theme=github" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifucoder&theme=github" alt="Most Commit Language" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifuddincoder&theme=github" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arifuddincoder&theme=github&utcOffset=6" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifucoder&theme=github" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arifucoder&theme=github&utcOffset=6" alt="Productive Time" />
 </p>
 
 ---
@@ -94,15 +94,15 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
 <h3>🔗 Where to Find Me</h3>
 
 <p>
-  <a href="mailto:arifuddincoder@gmail.com" target="_blank">
+  <a href="mailto:arifucoder@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/arifuddincoder" target="_blank">
+  <a href="https://github.com/arifucoder" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/arifuddincoder" target="_blank">
+  <a href="https://linkedin.com/in/arifucoder" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -110,15 +110,15 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/arifuddincoder" target="_blank">
+  <a href="https://twitter.com/arifucoder" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
-  <a href="https://facebook.com/arifuddincoder" target="_blank">
+  <a href="https://facebook.com/arifucoder" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=arifuddincoder&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=arifucoder&color=blue)
