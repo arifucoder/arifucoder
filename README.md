@@ -12,13 +12,6 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
 
 🌐 Visit My Portfolio Website: [https://codebyarif.web.app](https://codebyarif.web.app)
 
----
-
-### 📌 Current Activities
-- 🌱 I'm currently learning **Go (Golang)** and **Docker** — diving into backend systems and containerization  
-- 🔭 I'm working with **Next.js** (App Router, Server Actions, SSR/SSG) for full-stack projects  
-- 🗄️ I'm deepening my understanding of **RDBMS** — PostgreSQL with Prisma ORM  
-- 🚀 I have built full-stack projects using the **MERN stack** and **Next.js + Express + PostgreSQL**  
 
 ---
 
@@ -70,22 +63,6 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
 | [SkillBridge Frontend](https://github.com/arifucoder/skillbridge-frontend) | ![Issues](https://img.shields.io/github/issues/arifucoder/skillbridge-frontend) | Next.js • TypeScript • Tailwind • Better Auth |
 | [SkillBridge Backend](https://github.com/arifucoder/skillbridge-backend) | ![Issues](https://img.shields.io/github/issues/arifucoder/skillbridge-backend) | Node.js • Express • PostgreSQL • Docker |
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arifucoder&theme=github" alt="Profile Details" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arifucoder&theme=github" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arifucoder&theme=github" alt="Most Commit Language" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arifucoder&theme=github" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arifucoder&theme=github&utcOffset=6" alt="Productive Time" />
-</p>
 
 ---
 
