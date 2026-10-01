@@ -53,16 +53,6 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
   <img alt="Canva"      src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=ffffff" style="margin:4px 6px;" />
 </div>
 
----
-
-## 📂 Recent Projects
-| 🧠 Project Name | 🐞 Issues | ⚙️ Technologies |
-|----------------|-----------|----------------|
-| [CineTube Frontend](https://github.com/arifucoder/cinetube-frontend) | ![Issues](https://img.shields.io/github/issues/arifucoder/cinetube-frontend) | Next.js • TypeScript • Tailwind • shadcn/ui • TanStack |
-| [CineTube Backend](https://github.com/arifucoder/cinetube-backend) | ![Issues](https://img.shields.io/github/issues/arifucoder/cinetube-backend) | Express • Prisma • PostgreSQL • Stripe • Docker |
-| [SkillBridge Frontend](https://github.com/arifucoder/skillbridge-frontend) | ![Issues](https://img.shields.io/github/issues/arifucoder/skillbridge-frontend) | Next.js • TypeScript • Tailwind • Better Auth |
-| [SkillBridge Backend](https://github.com/arifucoder/skillbridge-backend) | ![Issues](https://img.shields.io/github/issues/arifucoder/skillbridge-backend) | Node.js • Express • PostgreSQL • Docker |
-
 
 ---
 
