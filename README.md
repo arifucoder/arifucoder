@@ -1,7 +1,5 @@
 ## 👨‍💻 About Me
 
-[![Portfolio Banner](https://raw.githubusercontent.com/arifucoder/arifucoder/main/assets/arifuddin-fullstack-developer.png)](https://codebyarif.web.app)
-
 # 😎 Hey! Nice to see you.
 
 Welcome to my page!  
