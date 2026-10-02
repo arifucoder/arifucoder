@@ -84,4 +84,4 @@ I love exploring modern JavaScript tools, frameworks, and DevOps practices to de
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=arifucoder&color=blue)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=arifucoder&color=blue) -->
